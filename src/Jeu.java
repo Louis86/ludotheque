@@ -47,12 +47,16 @@ public class Jeu {
         this.categorie = categorie;
     }
 
-    public Jeu(long idJeu, String nom, boolean statut, String fabricant, String categorie) {
-        this.idJeu = idJeu;
-        this.nom = nom;
-        this.statut = statut;
-        this.fabricant = fabricant;
-        this.categorie = categorie;
-    }
+        public Jeu(long idJeu, String nom, boolean statut, String fabricant, String categorie) {
+            this.idJeu = idJeu;
+            this.nom = nom;
+            this.statut = statut;
+            this.fabricant = fabricant;
+            this.categorie = categorie;
+        }
+
+
+
+
 
 }

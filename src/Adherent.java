@@ -2,7 +2,6 @@ import java.util.*;
 
 public class Adherent extends Personne {
 
-
     private Date inscription;
     private String typeAbonnement;
     private Date finAbonnement;

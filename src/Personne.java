@@ -34,6 +34,7 @@ public class Personne {
     private String prenom;
 
     public void emprunterJeu(){
+
     }
 
     public void retournerJeu(){
